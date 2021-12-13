@@ -1,0 +1,13 @@
+C:\Carta documento\Carta documento\Carta documento\bin\Release\Carta documento.exe
+C:\Carta documento\Carta documento\Carta documento\bin\Release\Carta documento.pdb
+C:\Carta documento\Carta documento\Carta documento\bin\Release\Carta documento.xml
+C:\Carta documento\Carta documento\Carta documento\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Carta documento\Carta documento\Carta documento\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Carta documento\Carta documento\Carta documento\obj\x86\Release\Carta documento.vbproj.GenerateResource.Cache
+C:\Carta documento\Carta documento\Carta documento\obj\x86\Release\Carta documento.exe
+C:\Carta documento\Carta documento\Carta documento\obj\x86\Release\Carta documento.xml
+C:\Carta documento\Carta documento\Carta documento\obj\x86\Release\Carta documento.pdb
+C:\Carta documento\Carta documento\Carta documento\bin\Release\Carta documento.exe.manifest
+C:\Carta documento\Carta documento\Carta documento\bin\Release\Carta documento.application
+C:\Carta documento\Carta documento\Carta documento\obj\x86\Release\Carta documento.exe.manifest
+C:\Carta documento\Carta documento\Carta documento\obj\x86\Release\Carta documento.application
